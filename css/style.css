@@ -45,7 +45,7 @@ code, pre{
     padding: 10px;
 }
 .hidden{
-    visible: hidden;
+    visibility: hidden;
     height:0;
 }
 /* Navbar */
